@@ -8,6 +8,4 @@ I successfully implemented resume.html (with stylesheet resume_style.css), bio.h
 This was a solo assignment.
 
 #Duration
-I spent approximately 11 hours completing this assignment.
-
-
+I spent approximately 12 hours completing this assignment.
