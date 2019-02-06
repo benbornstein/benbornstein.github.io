@@ -1,0 +1,29 @@
+/* This file contains styling for index.html */
+
+
+body {
+	font-family: "Arial";
+	text-align: center;
+	background-color: deepskyblue;
+	color: brown;
+}
+
+h1 {
+	font-family: "Times New Roman";
+	text-decoration: underline;
+}
+
+img {
+	width: 20%;
+	height: auto;
+	border-style: solid;
+}
+
+#intro {
+	font-size: 1em;
+	font-weight: bold;
+}
+
+.feature {
+	font-family: Arial;
+}
